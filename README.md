@@ -1,9 +1,8 @@
-# Django project created from Heroku doc
+# Django project to test Stackato 3.x
 
-This is a Django project created by following the [Heroku
-documentation](http://devcenter.heroku.com/articles/django).
 
-# Push to HPE Helion Stackato
+
+# Testing Stackatp
 
     stackato push -n
 
